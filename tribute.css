@@ -1,0 +1,53 @@
+#main {
+    margin: auto;
+    width: 90%;
+  }
+  body{
+    background: black;
+    color: white;
+    font-family: georgia, seriff;
+    text-align: center;
+  }
+  #title {
+    font-weight: 900;
+    text-transform: uppercase;
+  }
+  p {
+    font-size: 20px;
+  }
+  #img-div {
+    background: linear-gradient(35deg, blue, red, yellow);
+    padding: 12px;
+  }
+  #image {
+    height: auto;
+    display: block;
+    max-width: 100%;
+    margin-bottom: 10px;
+  }
+  #img-caption {
+    text-transform: capitalize;
+    font-family: cursive;
+  }
+  span {
+    font-weight: bold;
+    color: orange;
+  }
+  ul {
+    max-width: 900px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+  }
+  #tribute-info {
+    font-family: "Times New Roman", serif;
+  }
+  #tribute-link {
+    color: orange;
+  }
+  #tribute-link:link {
+    text-decoration: none;
+  }
+  marquee {
+    max-width:700px;
+    color: orange;
+  }
